@@ -1,0 +1,45 @@
+[
+  {
+    "model": "myapp.Students",
+    "fields": {
+      "name": "Isaac",
+      "age": "19"
+    }
+  },
+  {
+    "model": "myapp.Students",
+    "fields": {
+      "name": "Jason",
+      "age": "19"
+    }
+  },
+  {
+    "model": "myapp.Students",
+    "fields": {
+      "name": "Shu Xian",
+      "age": "20"
+    }
+  },
+  {
+    "model": "myapp.Students",
+    "fields": {
+      "name": "Ernest",
+      "age": "20"
+    }
+  },
+  {
+    "model": "myapp.Students",
+    "fields": {
+      "name": "Budi",
+      "age": "109"
+    }
+  },
+  {
+    "model": "myapp.Students",
+    "fields": {
+      "name": "Hubris",
+      "age": "50"
+    }
+  }
+]
+
